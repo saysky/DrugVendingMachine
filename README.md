@@ -62,7 +62,6 @@
 ![16-手机端-售货机扫码支付(二选一).jpg](img/16-手机端-售货机扫码支付(二选一).jpg)
 
 
-Process finished with exit code 0
 
 
 # 四、联系方式
