@@ -127,4 +127,3 @@
             score = 100;
         return score;
     }
-}(jQuery));

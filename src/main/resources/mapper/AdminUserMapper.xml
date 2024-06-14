@@ -9,4 +9,3 @@
         id,username,nickname,password
     </sql>
 
-</mapper>

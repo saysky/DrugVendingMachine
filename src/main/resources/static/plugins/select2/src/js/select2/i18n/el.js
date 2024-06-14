@@ -49,4 +49,3 @@ define(function () {
       return 'Αναζήτηση…';
     }
   };
-});

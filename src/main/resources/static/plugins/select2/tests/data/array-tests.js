@@ -315,4 +315,3 @@ test('existing selections are respected on initialization', function (assert) {
     var data = new ArrayData($select, options);
 
     assert.equal($select.val(), 'Second');
-});

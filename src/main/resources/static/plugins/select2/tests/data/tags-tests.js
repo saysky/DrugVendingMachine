@@ -273,4 +273,3 @@ test('the createTag options customizes the function', function (assert) {
     assert.equal(item.text, 'test');
     assert.equal(item.tag, true);
   });
-});

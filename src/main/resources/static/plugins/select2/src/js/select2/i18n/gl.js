@@ -36,4 +36,3 @@ define(function () {
       return 'Buscando…';
     }
   };
-});

@@ -188,4 +188,3 @@ test('the focus event shifts the focus', function (assert) {
     $search[0],
     'The search did not have focus originally'
   );
-});

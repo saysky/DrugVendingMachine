@@ -9108,4 +9108,3 @@
 
     return jQuery;
 
-}));

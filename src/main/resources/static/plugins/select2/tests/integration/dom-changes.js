@@ -254,4 +254,3 @@ test('removing a selected option changes the value', function (assert) {
   );
 
   syncDone();
-});

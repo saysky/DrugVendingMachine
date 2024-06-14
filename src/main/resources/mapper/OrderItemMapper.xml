@@ -9,4 +9,3 @@
         id,order_id,goods_id,goods_name,goods_thumbnail,selling_price,goods_count,create_time
     </sql>
 
-</mapper>

@@ -9,4 +9,3 @@
         id,name,category_id,thumbnail,carousel,content,price,stock_num,sell_num,status,create_time
     </sql>
 
-</mapper>

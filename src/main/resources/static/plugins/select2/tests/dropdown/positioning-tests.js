@@ -174,4 +174,3 @@ test('dropdown is positioned down with absolute offsets', function (assert) {
         '0px',
         'There should not be an extra left offset'
     );
-});

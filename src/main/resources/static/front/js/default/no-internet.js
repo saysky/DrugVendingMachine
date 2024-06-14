@@ -29,4 +29,3 @@
         $("#internetStatus").fadeIn(500);
     });
 
-})();

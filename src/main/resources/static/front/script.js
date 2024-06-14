@@ -237,4 +237,3 @@ $('.btn-goto-payment').click(function () {
 
         }
     });
-});

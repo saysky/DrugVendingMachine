@@ -9,4 +9,3 @@
 //         //console.error('Registration failed:', err);
 //       });
 //   });
-// }

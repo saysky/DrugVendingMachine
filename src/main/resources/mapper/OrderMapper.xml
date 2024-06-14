@@ -9,4 +9,3 @@
         id,order_no,total_price,pay_status,pay_type,pay_time,create_time
     </sql>
 
-</mapper>

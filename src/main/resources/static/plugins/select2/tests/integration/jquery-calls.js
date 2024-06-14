@@ -27,4 +27,3 @@ test('multiple elements with arguments works', function (assert) {
     '2',
     'The call should also change the value on the second element'
   );
-});

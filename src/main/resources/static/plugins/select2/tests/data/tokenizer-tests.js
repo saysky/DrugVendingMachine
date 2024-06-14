@@ -216,4 +216,3 @@ test('works with multiple tokens given', function (assert) {
     3,
     'The two new tags should have been created'
   );
-});

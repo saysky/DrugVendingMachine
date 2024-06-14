@@ -29,4 +29,3 @@ test('options are merged recursively with default options', function (assert) {
   );
 
   defaults.reset();
-});

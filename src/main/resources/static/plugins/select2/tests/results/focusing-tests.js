@@ -135,4 +135,3 @@ test('results:append does not trigger results:focus', function (assert) {
       ]
     }
   });
-});

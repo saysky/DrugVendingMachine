@@ -33,4 +33,3 @@ define(function () {
       return 'Søger…';
     }
   };
-});

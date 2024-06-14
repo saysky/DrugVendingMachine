@@ -28,4 +28,3 @@
     toggleSwitch.addEventListener('change', switchTheme, false);
   }
   
-})();

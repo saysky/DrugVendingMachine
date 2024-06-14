@@ -9,4 +9,3 @@
         id,name,category_rank,create_time
     </sql>
 
-</mapper>
