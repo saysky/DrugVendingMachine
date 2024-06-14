@@ -2,7 +2,7 @@
 - 预览地址：[http://drugvendingmachine.liuyanzhao.com](http://drugvendingmachine.liuyanzhao.com)
 - 详细介绍地址：[https://liuyanzhao.com/shop/DrugVendingMachine.html](https://liuyanzhao.com/shop/DrugVendingMachine.html)
 - 代码地址：https://github.com/saysky/DrugVendingMachine 或 https://gitee.com/saysky/DrugVendingMachine
-- 完成时间：2022年2月
+
 
 # 一、功能介绍
 - 管理员功能
